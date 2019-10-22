@@ -8,4 +8,4 @@ code about JavaScript Unit test with Mocha, Chai, Sinon
 * Run `npm install` to install all dependencies from package.json
 * Run `npm test` to run all test specs.
 OR 
-* RUN `bash src/bash/install-n-run-them-all.sh`
+* RUN `bash src/bash/install-n-run-them-all.sh`cxvxcvxcv
